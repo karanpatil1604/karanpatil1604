@@ -4,10 +4,10 @@ I'm Karan Patil, a passionate programmer with a keen interest in Computer Scienc
 
 ---
 
-🔭 Currently working on a cutting-edge Resource Management System for Restaurants. This ML-powered project optimizes resource usage in restaurants and cloud kitchens, enhancing productivity. Leveraging technologies like Flask, Django, and FastAPI for robust backend development, and VueJS for a sleek and intuitive user interface.
+🔭 Currently working on a cutting-edge Resource Management System for Restaurants. This ML-powered project optimizes resource usage in restaurants and cloud kitchens, enhancing productivity. Leveraging technologies like Django for robust backend development, and VueJS for a sleek and intuitive user interface.
 
 
-🌱 Actively learning advanced Machine Learning techniques and diving deep into Business Analytics. Proficient in Supervised and Unsupervised learning algorithms such as Linear Regression, Logistic Regression, and Decision Trees. Utilized these algorithms for customer classification in a restaurant chain. Also, implemented clustering algorithms (K-Means and DBSCAN) for insightful data segmentation in RFM analysis.
+🌱 Actively learning Sotware Engineering, Software Testing and AI: Search Methods, Deep Learning
 
 ---
 
